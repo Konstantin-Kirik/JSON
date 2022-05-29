@@ -1,0 +1,5 @@
+{
+  "house":
+  {"flat": [{"numberFlat": 12}],
+    "sort_by": ["email"]}
+}
